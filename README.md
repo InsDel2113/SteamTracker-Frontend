@@ -4,7 +4,7 @@
  <p>This is a frontend for <a href="https://github.com/SteamDatabase/SteamDatabaseBackend">SteamDatabaseBackend</a></p>
  - Just displays the app info, history, and more!
  <hr>
- Made quickly, code is decent
+ Made quickly, code is decent<br>
  Made with <a href="https://github.com/InsDel2113/Folksy">Folksy</a>, my web framework (PHP)
 <hr>
 <h1>Instructions:</h1>
