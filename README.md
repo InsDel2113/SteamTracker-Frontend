@@ -9,5 +9,5 @@
 <hr>
 <h1>Instructions:</h1>
 <p>1: Set up MySQL server and put your info in internal/config.ini.php</p>
-<p>Add the pre-filled database (steamdb.sql) (OPTIONAL)</p>
-<p>Set up web server, and goto ViewAllApps.php and pick an app!</p>
+<p>2: Add the pre-filled database (steamdb.sql) (OPTIONAL)</p>
+<p>3: Set up web server, and goto ViewAllApps.php and pick an app!</p>
