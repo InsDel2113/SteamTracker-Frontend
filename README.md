@@ -5,3 +5,4 @@
  - Just displays the app info, history, and more!
 
  Made quickly, code is decent
+ Made with <a href="https://github.com/InsDel2113/Folksy">Folksy</a>, my web framework (PHP)
